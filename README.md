@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priya-3434" alt="priya-3434" /></a> </p>
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning :-  **CSS**
 
-- 💬 Ask me about **Html|Python|C|C++**
+- 💬 Ask me about:-  **Html|Python|C|C++**
 
-- 📫 How to reach me **priya36sharma2@gmail.com**
+- 📫 How to reach me:-  **priya36sharma2@gmail.com**
 
-- ⚡ Fun fact **I spend almost 5 hours to listening songs**
+- ⚡ Fun fact:-  **I spend almost 5 hours to listening songs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
